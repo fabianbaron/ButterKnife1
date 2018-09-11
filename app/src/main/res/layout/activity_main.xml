@@ -15,5 +15,20 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/myButton"
+        android:text="Texto 1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/myButton2"
+        android:text="Texto 2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/myButton3"
+        android:text="Texto 3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </android.support.constraint.ConstraintLayout>
